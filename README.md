@@ -1,3 +1,19 @@
+# react-native-maps
+
+✅ React Native Maps kullanımı
+
+✅ React Native Config (.env dosyası içinden url çekme)
+
+✅ Random gelen verilerin konumlarını haritada gösterip avatar üzerine dokununca istenilen bilgilerin gelmesi (isim, kullanıcı adı ve telefon numarası ekledim) 
+
+✅ Random verilerin geldiği link: "https://random-data-api.com/api/users/random_user?size=30" 
+
+<img src="https://github.com/eoakpinarr/maps/blob/main/Simulator%20Screenshot%20-%20iPhone%20SE%20(3rd%20generation)%20-%202023-07-28%20at%2018.03.57.png" width="auto">
+
+<img src="https://github.com/eoakpinarr/maps/blob/main/Simulator%20Screenshot%20-%20iPhone%20SE%20(3rd%20generation)%20-%202023-07-28%20at%2018.04.25.png" width="auto">
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
